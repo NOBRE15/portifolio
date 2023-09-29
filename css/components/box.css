@@ -1,0 +1,11 @@
+#box {
+    background-color: #3A4042;
+    width: 600px;
+    filter: drop-shadow(9px 9px 0px #000);
+    text-align: center;
+    padding: 42px 0;
+}
+
+#box h1{
+    margin-bottom: 10px;
+}
